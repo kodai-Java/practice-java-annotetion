@@ -7,6 +7,8 @@ import java.lang.annotation.RetentionPolicy;
 // プロセッサが処理をするしないを分け方をする
 // マーカーインターフェースの代表例はSerializableなど
 
+// アノテーションを定義するためのアノテーションをメタアノテーションと呼ぶ
+
 // リテンションポリシー
 // マーカーの保持期間のこと
 // class
